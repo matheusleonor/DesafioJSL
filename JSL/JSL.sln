@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSL", "JSL.csproj", "{8C2502C0-34A9-409E-A86B-C9D07D92A726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJSL", "..\EJSL\EJSL.csproj", "{5198425F-EE95-4A4A-99CE-BEBD5137C1C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2502C0-34A9-409E-A86B-C9D07D92A726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2502C0-34A9-409E-A86B-C9D07D92A726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2502C0-34A9-409E-A86B-C9D07D92A726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2502C0-34A9-409E-A86B-C9D07D92A726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5198425F-EE95-4A4A-99CE-BEBD5137C1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5198425F-EE95-4A4A-99CE-BEBD5137C1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5198425F-EE95-4A4A-99CE-BEBD5137C1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5198425F-EE95-4A4A-99CE-BEBD5137C1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F31841BC-5FC6-4F5B-8F01-DD64FE4480A2}
+	EndGlobalSection
+EndGlobal
