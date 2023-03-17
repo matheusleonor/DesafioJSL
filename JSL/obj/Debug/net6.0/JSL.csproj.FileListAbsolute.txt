@@ -274,7 +274,6 @@ D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.GeneratedMSBu
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.AssemblyInfoInputs.cache
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.AssemblyInfo.cs
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.csproj.CoreCompileInputs.cache
-D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.MvcApplicationPartsAssemblyInfo.cs
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.MvcApplicationPartsAssemblyInfo.cache
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.RazorAssemblyInfo.cache
 D:\Projetos Visual Studio 2022\DesafioJSL\JSL\obj\Debug\net6.0\JSL.RazorAssemblyInfo.cs

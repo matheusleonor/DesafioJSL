@@ -15,6 +15,13 @@ namespace EJSL.Controllers
     {
         private readonly EjslContext _context;
 
+        [HttpGet("/Carga")]
+        public IActionResult GetCargasJson()
+        {
+            var cargas = _context.Cargas.ToList();
+            return Ok(cargas);
+        }
+
         public CargasController(EjslContext context)
         {
             _context = context;

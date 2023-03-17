@@ -40,13 +40,12 @@ namespace EJSL
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "carga",
-                    pattern: "carga",
-                    defaults: new { controller = "Carga", action = "Index" });
-
-                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                endpoints.MapControllerRoute(
+                    name: "carga",
+                    pattern: "{controller=Carga}/{action=Index}/{id?}");
             });
         }
 
